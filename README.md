@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Salar Mokhtari Laleh
 
-<!--
-**salarrobot/salarrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Artificial Intelligence at **Norwegian University of Science and Technology (NTNU)**  
+🤖 Researcher specializing in **Deep Reinforcement Learning** for **Humanoid Robotics**  
+🧠 Focused on building intelligent, adaptive control systems that learn in complex, real-world environments  
+🚀 Passionate about pushing the boundaries of autonomy, learning, and simulation-to-reality transfer  
+🔍 Exploring topics like:
+- Policy optimization and generalization
+- Robust control for high-DOF humanoids
+- Lifelong and transfer learning
+- Open-source simulation frameworks
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Here you'll find code, experiments, and tools from my research and projects.  
+📫 Let's connect: [youremail@example.com] or [your personal site, if available]
